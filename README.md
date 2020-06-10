@@ -1,3 +1,5 @@
+# DEPRECATED: Moved to [@testing-library/preact-hooks](https://github.com/testing-library/react-hooks-testing-library)
+
 # preact-hooks-testing-library
 
 preact port of the the [@testing-library/react-hooks](https://github.com/testing-library/react-hooks-testing-library) library.
