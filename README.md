@@ -1,4 +1,4 @@
-# DEPRECATED: Moved to [@testing-library/preact-hooks](https://github.com/testing-library/react-hooks-testing-library)
+# DEPRECATED: Moved to [@testing-library/preact-hooks](https://github.com/testing-library/preact-hooks-testing-library)
 
 # preact-hooks-testing-library
 
